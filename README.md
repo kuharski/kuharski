@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Andrew 👋
 
-<!--
-**kuharski/kuharski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a 3rd-year computer science student @ University of Waterloo.
 
-Here are some ideas to get you started:
+💻 Currently architecting the systems behind the global multicloud finance ecosystem @ Marsh McLennan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Projects & Passions
+### 🤖 Civ Copilot
+ - Combining LLMs, graph algorithms, and optimization theory to deliver tailored strategy game insights to Civ V players.
+ - Dive into my [README.md](https://github.com/kuharski/civ-copilot/blob/main/README.md) for a breakdown of the algorithms and mathematics behind Civ Copilot's strategic depth.
+
+### 🎨 T E L i i K
+- Sharing my original songs, drawings, short stories and poems through my [website](https://teliik.net) to stir emotions and memories.
+- Check out my latest work ["Japanese Candy"](https://teliik.net/japanesecandy.pdf), a short story about a rock, a boat, and the weight of what drifts away.
+  
+## 🚧 In the Works
+- Prototyping `Terraform` + `GitHub Actions` pipelines for `Oracle Cloud Infrastructure` to enable seamless IaC CI/CD  
+- Building a lightweight OCR API with `Flask`, `OpenCV`, and `Tesseract` for real-time document processing

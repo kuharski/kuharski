@@ -7,7 +7,7 @@
 ## ⚙️ Projects & Passions
 ### 🤖 Civ Copilot
  - Combining LLMs, graph algorithms, and optimization theory to deliver tailored strategy game insights to Civ V players.
- - Dive into my [README.md](https://github.com/kuharski/civ-copilot/blob/main/README.md) for a breakdown of the algorithms and mathematics behind Civ Copilot's strategic depth.
+ - [Try it live here](https://civ-copilot.onrender.com/), or dive into my [README.md](https://github.com/kuharski/civ-copilot/blob/main/README.md) for a breakdown of the algorithms and math behind Civ Copilot's strategic depth.
 
 ### 🎨 T E L i i K
 - Sharing my original songs, drawings, short stories and poems through my [website](https://teliik.net) to stir emotions and memories.

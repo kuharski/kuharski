@@ -2,7 +2,7 @@
 
 🌱 I'm a 3rd-year computer science student @ University of Waterloo.
 
-💻 Currently architecting the systems behind the global multicloud finance ecosystem @ Marsh McLennan.
+💻 Previously architecting the systems behind the global multicloud finance ecosystem @ Marsh McLennan.
 
 ## ⚙️ Projects & Passions
 ### 🤖 Civ Copilot
@@ -14,5 +14,4 @@
 - Check out my latest work ["Japanese Candy"](https://teliik.net/japanesecandy.pdf), a short story about a rock, a boat, and the weight of what drifts away.
   
 ## 🚧 In the Works
-- Prototyping `Terraform` + `GitHub Actions` pipelines for `Oracle Cloud Infrastructure` to enable seamless IaC CI/CD  
-- Building a lightweight OCR API with `Flask`, `OpenCV`, and `Tesseract` for real-time document processing
+- Attending Hack the North 2025!

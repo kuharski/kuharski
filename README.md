@@ -2,7 +2,7 @@
 
 🌱 I'm a 3rd-year computer science student @ University of Waterloo.
 
-💻 Previously architecting the systems behind the global multicloud finance ecosystem @ Marsh McLennan.
+💻 Previously architecting the multicloud finance ecosystem @ Marsh McLennan.
 
 ## ⚙️ Projects & Passions
 ### 🤖 Civ Copilot
@@ -13,5 +13,5 @@
 - Sharing my original songs, drawings, short stories and poems through my [website](https://teliik.net) to stir emotions and memories.
 - Check out my latest work ["Japanese Candy"](https://teliik.net/japanesecandy.pdf), a short story about a rock, a boat, and the weight of what drifts away.
   
-## 🚧 In the Works
-- Attending Hack the North 2025!
+## 🛍️ In the Works
+- Excited to join Shopify as a Winter 2026 intern!
